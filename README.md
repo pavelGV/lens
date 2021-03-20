@@ -17,6 +17,10 @@ Many people might compare Kontena Lens to [Kubernetes Dashboard](https://github.
 * Dashboard access and functionality limited by RBAC
 * Professional support available
 
+HI from laptop
+
+
+
 ## Further Information
 - [Website](https://www.kontena.io/lens)
 - [Slack](https://slack.kontena.io/)
